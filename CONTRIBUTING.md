@@ -12,4 +12,8 @@ These are in general rules that you should be following while contributing to an
 - Make proper commit messages and document your PR well.
 - Always add Comments in your Code and explain it at points, if possible add Doctest.
 - Always create a Pull Request from a Branch; Never from the Main.
+<<<<<<< HEAD
 - Follow proper code conventions because writing clean code is important.
+=======
+- Follow proper code conventions because writing clean code is important.
+>>>>>>> upstream/main
